@@ -1,0 +1,94 @@
+{
+    "menuItems": [
+        {
+            "id": 1,
+            "name": "Home",
+            "link": "home",
+            "icon": "House"
+        },
+        {
+            "id": 2,
+            "name": "Overview",
+            "link": "overview",
+            "icon": "BarChart"
+        },
+        {
+            "id": 3,
+            "name": "Geo Information",
+            "link": "geo-information",
+            "icon": "GeoAlt"
+        },
+        {
+            "id": 4,
+            "name": "Hub",
+            "link": "hub",
+            "icon": "Houses"
+        },
+        {
+            "id": 5,
+            "name": "Users",
+            "link": "users",
+            "icon": "Person"
+        },
+        {
+            "id": 6,
+            "name": "Product",
+            "link": "product",
+            "icon": "Box",
+            "subMenus": [
+                {
+                    "id": 1,
+                    "subMenuName": "Sub Menu 1",
+                    "link": "sub-menu-1"
+                },
+                {
+                    "id": 2,
+                    "subMenuName": "Sub Menu 2",
+                    "link": "sub-menu-2"
+                },
+                {
+                    "id": 3,
+                    "subMenuName": "Sub Menu 3",
+                    "link": "sub-menu-3"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Order List",
+            "link": "order-list",
+            "icon": "CardChecklist"
+        },
+        {
+            "id": 8,
+            "name": "Inventory",
+            "link": "inventory",
+            "icon": "Box2"
+        },
+        {
+            "id": 9,
+            "name": "Invoice",
+            "link": "invoice",
+            "icon": "Receipt"
+        },
+        {
+            "id": 10,
+            "name": "Attendance",
+            "link": "attendance",
+            "icon": "House"
+        },
+        {
+            "id": 11,
+            "name": "Settings",
+            "link": "settings",
+            "icon": "BarChart"
+        },
+        {
+            "id": 12,
+            "name": "Log Out",
+            "link": "logout",
+            "icon": "BoxArrowLeft"
+        }
+
+    ]
+}

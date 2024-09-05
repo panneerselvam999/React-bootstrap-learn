@@ -1,0 +1,63 @@
+
+.font-weight-300 {
+  font-weight: 300;
+}
+
+.font-weight-400 {
+  font-weight: 400;
+}
+
+.font-weight-500 {
+  font-weight: 500;
+}
+
+.font-weight-700 {
+  font-weight: 700;
+}
+
+.font-weight-900 {
+  font-weight: 900;
+}
+
+
+.custom-hover:hover {
+  background: grey;
+  color: white !important;
+}
+
+
+/* custom scroll bar for dash board menus - start */
+/* Custom scrollbar for WebKit browsers */
+.custom-scrollbar {
+  overflow: auto;
+}
+
+/* Track */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px; /* Width of the scrollbar */
+}
+
+/* Handle */
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #888; /* Color of the scrollbar handle */
+  border-radius: 10px; /* Roundness of the handle */
+}
+
+/* Handle on hover */
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #555; /* Darker color on hover */
+}
+
+/* Track (Progress Bar) */
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Background color of the track */
+  border-radius: 10px; /* Roundness of the track */
+}
+
+/* custom scroll bar for dash board menus - end*/
+
+
+
+/* dashboard strink icon - start */
+
+/* dashboard strink icon - end */

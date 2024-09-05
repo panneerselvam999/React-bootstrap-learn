@@ -1,0 +1,22 @@
+{
+    "feturesItems": [
+        {
+            "id": 1,
+            "name": "Attendance",
+            "link": "attendance",
+            "icon": "House"
+        },
+        {
+            "id": 2,
+            "name": "Settings",
+            "link": "settings",
+            "icon": "BarChart"
+        },
+        {
+            "id": 3,
+            "name": "Log Out",
+            "link": "logout",
+            "icon": "BarChart"
+        }
+    ]
+}
